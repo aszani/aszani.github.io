@@ -29,7 +29,7 @@ kramdown:
 owner:
   name: Aszani
   avatar: bio-photo.jpg
-  bio: "Saya adalah Mahasiswi Program Studi [Sistem Informasi] Fakultas Sains dan Teknologi [Universitas Islam Negeri Sulthan Syarif Kasim Riau] "
+  bio: "Saya adalah Mahasiswi Program Studi Sistem Informasi Fakultas Sains dan Teknologi Universitas Islam Negeri Sulthan Syarif Kasim Riau "
   email: 
   disqus-shortname: 
   twitter: aszasani #username
@@ -57,5 +57,4 @@ owner:
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
-[Sistem Informasi] : http://sif.uin-suska.ac.id/
-[Universitas Islam Negeri Sulthan Syarif Kasim Riau] : http://uin-suska.ac.id/
+
