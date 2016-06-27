@@ -7,4 +7,4 @@ link: http://sif.uin-suska.ac.id
 share: true
 ---
 
-Saat ini saya sedang belajar di Sebuah Program Studi [link]
+Saat ini saya sedang belajar di Sebuah Program Studi [Sistem Informasi]
