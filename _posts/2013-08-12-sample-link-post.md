@@ -3,8 +3,8 @@ layout: post
 title: "Sistem Informasi "
 excerpt: "Example and code for using link posts."
 tags: [sample post, link post]
-Sistem Informasi: http://sif.uin-suska.ac.id
+link: http://sif.uin-suska.ac.id
 share: true
 ---
 
-Saat ini saya sedang belajar di Sebuah Program Studi [Sistem Informasi]
+Saat ini saya sedang belajar di Sebuah Program Studi [link]
